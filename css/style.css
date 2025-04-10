@@ -5,16 +5,13 @@
 
 
     /* зверху 15px, зліва 10px, внизу 20px, праворуч 10px; зовнішній нижній відступ 30px. */
-    margin-top: 15px;
-    margin-bottom: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 15px 10px 20px 10px;
 
     padding-bottom: 30px;
 
 
     /* "пунктирну" границу червоного кольору товщиною 2px. */
-    border: red 2px dashed;
+    border: 2px dashed red;
 
 
     /* зелений "фон" елемента. */
